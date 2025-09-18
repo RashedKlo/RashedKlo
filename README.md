@@ -1,235 +1,112 @@
+# Rashed Klo - Full-Stack Developer
+
 <div align="center">
 
-<!-- Modern Header with Working Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=RASHED%20KLO&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🚀%20Full-Stack%20Developer&descAlignY=60&descAlign=50&descSize=18"/>
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,17,20&height=200&section=header&text=RASHED%20KLO&fontSize=50&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer&descAlignY=85&descSize=14)
 
-<!-- Clean Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Full-Stack+Developer+skilled+in+.NET%2C+C%23%2C+React+and+SQL+Server;Building+scalable+web+and+desktop+applications" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1500&color=4A90E2&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer+%7C+.NET+%7C+React+%7C+SQL+Server;Specialized+in+Scalable+Web+%26+Desktop+Applications)](https://git.io/typing-svg)
 
-<!-- Simple Metrics -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rashedklo&style=for-the-badge&color=00f5ff&label=Views" />
-  <img src="https://img.shields.io/github/followers/rashedklo?style=for-the-badge&color=ff6b9d&label=Followers" />
-  <img src="https://img.shields.io/badge/Languages-Arabic%20%7C%20English-c7ff00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CodeForces-40%2B%20Solved-ffa500?style=for-the-badge" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rashedklo&style=flat-square&color=4A90E2&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rashedklo?style=flat-square&color=4A90E2&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-4A90E2?style=flat-square" alt="Experience" />
+  <img src="https://img.shields.io/badge/Status-Available-4A90E2?style=flat-square" alt="Status" />
 </p>
 
 </div>
 
 ---
 
-## 🎯 **About Me**
+## Professional Summary
 
-<table>
-<tr>
-<td width="100%">
+Full-Stack Developer with expertise in **.NET, C#, SQL Server, RESTful APIs, and React**, specialized in building scalable web and desktop applications. Demonstrated proficiency in solving complex technical challenges with a solid foundation in data structures and algorithms. Currently pursuing **Informatics Engineering** at the **University of Aleppo** while maintaining active engagement in professional software development.
 
-### 👨‍💻 **Full-Stack Developer**
+### Core Competencies
 
-I'm a passionate **Full-Stack Developer** with **3+ years** of experience building scalable web and desktop applications. Currently pursuing **Informatics Engineering** at the **University of Aleppo** while creating production-ready platforms with advanced features.
+**Technical Expertise**: Enterprise application development, database architecture, API design, real-time systems implementation, and secure authentication protocols.
 
-**🔥 What I specialize in:**
-- 🏗️ **Full-Stack Development** - Complete platform architecture from frontend to backend
-- ⚡ **Real-Time Systems** - WebSocket integration, live chat, instant notifications
-- 🔐 **Advanced Security** - JWT authentication, OAuth integration, SHA-256 encryption
-- 💳 **Payment Processing** - Stripe API integration for secure transactions
-- 📱 **Responsive Design** - Modern, mobile-first user interfaces
-- 🎯 **Problem Solving** - Strong algorithmic thinking with 40+ CodeForces solutions
+**Development Focus**: Scalable web applications, desktop solutions, modern user interfaces, and performance-optimized backend systems.
 
-
-</td>
-</tr>
-</table>
+**Problem-Solving**: Advanced algorithmic thinking with 40+ solved challenges on competitive programming platforms.
 
 ---
 
-## 💻 **Technology Stack**
+## Technical Skills
 
+### Programming Languages & Technologies
 <div align="center">
 
-### **Backend Development**
-<p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-<img src="https://img.shields.io/badge/RESTful%20APIs-FF6B35?style=for-the-badge&logo=swagger&logoColor=white" />
-</p>
+| **Backend Development** | **Frontend Development** | **Database & Tools** |
+|:---:|:---:|:---:|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white) |
+| ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-0078D4?style=flat&logo=dotnet&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white) |
+| ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=flat&logo=windows&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![3-Tier Architecture](https://img.shields.io/badge/3--Tier%20Architecture-FF6B35?style=flat&logo=layers&logoColor=white) |
+|  | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |  |
 
-### **Frontend Development**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+</div>
 
-### **Advanced Features**
-<p>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-</p>
+### Core Programming Concepts
+<div align="center">
+
+```
+Algorithms & Data Structures    |    Object-Oriented Programming    |    Relational Databases
+Structured Programming          |    RESTful API Development        |    Database Design & Optimization
+Authentication & Security       |    Real-Time Communication        |    Performance Tuning
+```
+
+</div>
+
+### Professional Skills
+<div align="center">
+
+| **Technical** | **Soft Skills** | **Methodologies** |
+|:---:|:---:|:---:|
+| Problem Solving | Professional Communication | Agile Development |
+| Code Architecture | Team Collaboration | Test-Driven Development |
+| Performance Optimization | Technical Documentation | Code Review Processes |
 
 </div>
 
 ---
 
-## 🚀 **Featured Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛍️ **E-Commerce Platform**
-**Jan 2025 - Present** | **🔥 Active Development**
-
-Complete online store with admin dashboard and advanced features.
-
-**Key Features:**
-- 🔐 Multi-authentication (JWT + Google OAuth)
-- 💳 Stripe payment processing
-- 🛒 Real-time shopping cart
-- 📱 Mobile-responsive design
-- 👨‍💼 Complete admin panel
-
-**Tech Stack:**  
-React.js, Tailwind CSS, ASP.NET Core, SQL Server, JWT, Stripe
-
-
-
-</td>
-<td width="50%">
-
-### 💬 **HandNote Social Platform**
-**Jul 2024 - Dec 2024** | **✅ Completed**
-
-Advanced social media platform with real-time features.
-
-**Key Features:**
-- 💬 WebSocket real-time chat
-- 🔔 Live notifications system
-- 👥 Online presence tracking
-- 🔐 Advanced security (JWT + OAuth + SHA-256)
-- 📱 Modern React interface
-
-**Tech Stack:**  
-React.js, Tailwind CSS, WebSockets, ASP.NET Core, SQL Server
-
-
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏦 **Bank Management Dashboard**
-**Mar 2024 - Jun 2024** | **✅ Completed**
-
-Enterprise banking system with secure operations.
-
-**Key Features:**
-- 📊 Dynamic dashboard interface
-- 🔒 Bank-level security
-- 👥 Customer management
-- 📈 Account analytics
-- 💼 Audit system
-
-**Tech Stack:**  
-HTML5, CSS3, JavaScript, ASP.NET Core, SQL Server
-
-
-
-</td>
-<td width="50%">
-
-### 🚗 **License Management System**
-**Jan 2024 - May 2024** | **✅ Completed**
-
-Desktop application for license management.
-
-**Key Features:**
-- 🗂️ Secure database operations
-- 📋 Complete license tracking
-- 🔄 Modular architecture
-- 🖥️ Windows Forms interface
-- 🏗️ 3-tier design
-
-**Tech Stack:**  
-.NET Framework, Windows Forms, C#, SQL Server
-
-
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashedklo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B9D&text_color=FFFFFF&include_all_commits=true" />
-</td>
-<td width="50%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedklo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" />
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashedklo&theme=dark&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF6B9D&fire=C7FF00&currStreakLabel=FFFFFF" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rashedklo&bg_color=0D1117&color=00F5FF&line=FF6B9D&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
----
-
-## 🎓 **Education & Achievements**
+## Educational Background & Professional Development
 
 <table>
 <tr>
 <td width="60%">
 
-### 📚 **Academic Background**
+### Academic Credentials
 
-**🎓 University of Aleppo - Informatics Engineering**  
-*Oct 2023 - Jun 2028 (Expected)*  
-Currently maintaining excellent academic standing
+**Bachelor of Engineering - Informatics Engineering**  
+*University of Aleppo, Syria*  
+*October 2023 - June 2028 (Expected Graduation)*
 
-**🏆 Programming Advices Academy**  
-*2023-2024*  
-Successfully completed 20+ professional programming courses covering:
+**Academic Focus Areas:**
+- Software Engineering Principles
 - Advanced Algorithms & Data Structures
-- Object-Oriented Programming (C++)
-- C# & .NET Framework Development
-- RESTful API Design & Implementation  
-- Database Management & SQL Server
-- Security & Authentication Systems
+- Database Management Systems
+- Computer Networks & Security
+- Web Technologies & Frameworks
+- Object-Oriented Design Patterns
 
 </td>
 <td width="40%">
 
-### 🏅 **Key Achievements**
+### Professional Training
 
-**🎯 CodeForces Profile**  
-40+ Medium-Level Problems Solved  
-[View Profile →](https://codeforces.com/profile/rashedkallo01)
+**Programming Advices Academy**  
+*Comprehensive Development Program*
 
-**💼 Professional Skills**
-- Full-Stack Development
-- Real-Time System Architecture
-- Advanced Authentication & Security
-- Database Design & Optimization
-- Problem Solving & Algorithms
-- Team Collaboration & Communication
+**Training Completion:** 20+ Specialized Courses
+
+**Curriculum Coverage:**
+- Problem Solving & Algorithmic Thinking
+- Data Structures Implementation
+- C++ & Advanced Programming Techniques
+- C# & .NET Framework Development
+- RESTful API Design & Implementation
+- Database Management & Optimization
 
 </td>
 </tr>
@@ -237,69 +114,38 @@ Successfully completed 20+ professional programming courses covering:
 
 ---
 
-## 🌐 **Let's Connect & Collaborate**
+## Problem-Solving & Analytical Skills
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="mailto:Rashedkloofficial@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
-</a>
-<br>
-<strong>📧 Professional Email</strong>
-<br>
-<sub>Business inquiries & project collaboration</sub>
-</td>
-<td align="center" width="25%">
-<a href="https://linkedin.com/in/rashedklo">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
-</a>
-<br>
-<strong>💼 LinkedIn Profile</strong>
-<br>
-<sub>Professional networking & opportunities</sub>
-</td>
-<td align="center" width="25%">
-<a href="https://codeforces.com/profile/rashedkallo01">
-<img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="50"/>
-</a>
-<br>
-<strong>🏆 Problem Solving</strong>
-<br>
-<sub> algorithmic solutions showcase</sub>
-</td>
-<td align="center" width="25%">
-<a href="tel:+963947841958">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="50"/>
-</a>
-<br>
-<strong>📱 Direct Contact</strong>
-<br>
-<sub>Quick communication & urgent inquiries</sub>
-</td>
-</tr>
-</table>
-
-### 🚀 **Open For Opportunities**
+### Competitive Programming Achievement
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Full--Stack-Projects-00F5FF?style=for-the-badge&logoColor=white" />
-<br>
-<sub>Available for full-stack development projects</sub>
+<td width="50%" align="center">
+
+**CodeForces Platform**
+
+![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+
+**Performance Metrics:**
+- **Problems Solved:** 40+ Medium-Level Challenges
+- **Focus Areas:** Algorithms, Data Structures, Optimization
+- **Skill Development:** Advanced problem-solving techniques
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Open-Source-FF6B9D?style=for-the-badge&logoColor=white" />
-<br>
-<sub>Contributing to open source communities</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Mentoring-Teaching-FFA500?style=for-the-badge&logoColor=white" />
-<br>
-<sub>Knowledge sharing </sub>
+<td width="50%" align="center">
+
+**Technical Profile**
+
+[**View CodeForces Profile →**](https://codeforces.com/profile/rashedkallo01)
+
+**Competency Areas:**
+- Algorithmic Problem Solving
+- Computational Efficiency
+- Logic & Mathematical Reasoning
+- Code Optimization Techniques
+
 </td>
 </tr>
 </table>
@@ -308,12 +154,122 @@ Successfully completed 20+ professional programming courses covering:
 
 ---
 
+## GitHub Analytics
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=200&section=footer&reversal=true&animation=twinkling&text=Let's%20Build%20Something%20Amazing%20Together&fontSize=28&fontAlignY=70&fontColor=fff"/>
+<picture>
+  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=rashedklo&show_icons=true&theme=default&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=333&bg_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashedklo&show_icons=true&theme=default&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=333&bg_color=ffffff" alt="GitHub Statistics" />
+</picture>
 
-### 💡 *"The best way to predict the future is to create it"* - Peter Drucker
+<picture>
+  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedklo&layout=compact&theme=default&hide_border=true&title_color=4A90E2&text_color=333&bg_color=ffffff&langs_count=6">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedklo&layout=compact&theme=default&hide_border=true&title_color=4A90E2&text_color=333&bg_color=ffffff&langs_count=8" alt="Programming Languages Distribution" />
+</picture>
 
-⭐ **If you find my work interesting, please consider starring my repositories!** ⭐
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedklo&theme=default&hide_border=true&stroke=4A90E2&ring=4A90E2&fire=4A90E2&background=ffffff" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## Professional Contact Information
+
+<div align="center">
+
+### Contact Details
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**📧 Email**  
+[Rashedkloofficial@gmail.com](mailto:Rashedkloofficial@gmail.com)
+
+*Professional inquiries and collaboration opportunities*
+
+</td>
+<td align="center" width="25%">
+
+**🔗 LinkedIn**  
+[linkedin.com/in/rashedklo](https://linkedin.com/in/rashedklo)
+
+*Professional networking and career opportunities*
+
+</td>
+<td align="center" width="25%">
+
+**💻 CodeForces**  
+[View Profile](https://codeforces.com/profile/rashedkallo01)
+
+*Technical problem-solving portfolio*
+
+</td>
+<td align="center" width="25%">
+
+**📱 Phone**  
++963 947 841 958
+
+*Direct communication for urgent matters*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### Professional Availability
+
+<div align="center">
+
+**Current Status:** Available for full-time opportunities and professional collaborations
+
+| **Full-Time Employment** | **Consulting Services** | **Technical Mentoring** |
+|:---:|:---:|:---:|
+| Open to senior developer positions | Available for web application projects | Interested in knowledge sharing initiatives |
+| Seeking challenging technical roles | Specialized in full-stack development | Open to junior developer guidance |
+
+</div>
+
+---
+
+## Professional Development Philosophy
+
+### Technical Excellence Standards
+
+**Quality Assurance:** Committed to delivering robust, maintainable software solutions through comprehensive testing, code review processes, and adherence to industry best practices.
+
+**Security Implementation:** Emphasis on implementing comprehensive security measures from initial design through deployment, ensuring data protection and system integrity.
+
+**Performance Optimization:** Focus on developing efficient, scalable solutions with consideration for future growth and performance requirements.
+
+**Continuous Learning:** Dedication to staying current with emerging technologies, development methodologies, and industry standards through ongoing professional development.
+
+### Development Principles
+
+<div align="center">
+
+| **Code Quality** | **System Design** | **User Experience** | **Team Collaboration** |
+|:---:|:---:|:---:|:---:|
+| Clean, maintainable code | Scalable architecture patterns | Intuitive interface design | Effective communication |
+| Comprehensive documentation | Performance-optimized solutions | Accessibility compliance | Knowledge sharing |
+| Test-driven development | Security-first approach | Cross-platform compatibility | Code review participation |
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,17,14&height=120&section=footer&reversal=true)
+
+### Professional Software Development Services
+
+**Transforming complex requirements into scalable, secure, and maintainable software solutions.**
+
+---
+
+*Thank you for reviewing my professional profile. I welcome opportunities for collaboration and technical discussions.*
 
 </div>
