@@ -11,10 +11,8 @@
 
 I'm a passionate Full-Stack Developer specializing in **.NET**, **C#**, **React**, and **SQL Server**. Currently pursuing **Informatics Engineering** at the University of Aleppo, I enjoy building scalable web and desktop applications that solve real-world problems.
 
-- 🔭 Currently working on: **E-commerce Platform** with comprehensive admin dashboard
-- 🌱 Learning: Advanced React patterns and cloud technologies
 - 💡 Interested in: Full-stack development, system architecture, and problem-solving
-- 📫 Reach me at: **Rashedkloofficial@gmail.com**
+- 📫 Reach me at: **rashed.klo.dev@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -22,7 +20,6 @@ I'm a passionate Full-Stack Developer specializing in **.NET**, **C#**, **React*
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
@@ -41,7 +38,7 @@ I'm a passionate Full-Stack Developer specializing in **.NET**, **C#**, **React*
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=rashedklo&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
@@ -58,7 +55,7 @@ I'm a passionate Full-Stack Developer specializing in **.NET**, **C#**, **React*
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:Rashedkloofficial@gmail.com">
+  <a href="mailto:rashed.klo.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/rashedklo">
